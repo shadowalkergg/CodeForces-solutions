@@ -1,3 +1,6 @@
+//This is a rather easy question even though it is rated 1000. Just check if the sum all forces for each axis are zero. 
+//If it is zero, print yes, otherwise no
+
 #include <bits/stdc++.h>
 using namespace std;
 int main() {
